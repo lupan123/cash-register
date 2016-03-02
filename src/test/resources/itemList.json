@@ -1,0 +1,7 @@
+[
+  {"name": "可口可乐","category":"汽水","unit":"瓶","price":"3.00","barCode":"ITEM000001","promotionType":"buyTwoGiveOne"},
+  {"name": "羽毛球","category":"体育用品","unit":"个","price":"1.00","barCode":"ITEM000002","promotionType":"buyTwoGiveOne"},
+  {"name": "苹果","category":"蔬果","unit":"斤","price":"5.50","barCode":"ITEM000003","promotionType":"95discount"},
+  {"name": "雪碧","category":"汽水","unit":"瓶","price":"3.50","barCode":"ITEM000004","promotionType":"buyTwoGiveOne,95discount"},
+  {"name": "橘子","category":"蔬果","unit":"斤","price":"2.50","barCode":"ITEM000005","promotionType":""}
+]
