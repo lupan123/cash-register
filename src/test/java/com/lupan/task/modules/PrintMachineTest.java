@@ -55,6 +55,13 @@ public class PrintMachineTest {
 
     @Test
     public void testPrint6() throws Exception {
+        pm.getBarCodes("src/test/resources/barCodesList6.json");
+        pm.print();
+        assertTrue(true);
+    }
+
+    @Test
+    public void testPrint7() throws Exception {
         try{
             pm.getBarCodes("src/test/resources/xxx.json");
             pm.print();
