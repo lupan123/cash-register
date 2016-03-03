@@ -25,6 +25,7 @@ public class PrintMachine {
 
     //折扣率
     public static final double DISCOUNT_RATE = 0.95;
+    //商场商品清单
     public static final String ITEM_LIST_FILE = "src/main/resources/itemList.json";
     //结账商品
     private List<Item> payList;
