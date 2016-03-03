@@ -13,6 +13,5 @@ public class Main {
         pm.init();
         pm.getBarCodes("src/main/resources/barCodesList.json");
         pm.print();
-        //asdfad
     }
 }
